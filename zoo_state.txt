@@ -1,0 +1,5 @@
+Animal,Bird,Eagle,5
+Animal,Mammal,Lion,10
+Animal,Reptile,Snake,3
+Staff,ZooKeeper,John
+Staff,Veterinarian,Alice
