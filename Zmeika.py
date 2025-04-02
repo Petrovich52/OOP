@@ -120,4 +120,4 @@ def main():
     pygame.quit()  # Завершение работы Pygame
 
 if __name__ == "__main__":
-    main()  # Запуск игры
+    main()  # Запуск игры1
